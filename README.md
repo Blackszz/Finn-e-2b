@@ -1,9 +1,9 @@
 # Finn-e-2b
 
-##Guilherme Santos
-##Henrique Kenji
+## Guilherme Santos
+## Henrique Kenji
 
-##ferramentas utilizadas
+## ferramentas utilizadas
 
 1. Lápis para a formatação.
 2. Borracha para corrigir erros.
@@ -14,8 +14,8 @@
 7. Copiar frames para n dar trabalho em mudar a animação.
 8. Ferramenta de linhas retas e formas geometricas.
 
-##Contexto da animação
+## Contexto da animação
 
-#Finn e 2b
+# Finn e 2b
 
 Como ambos personagens usam espadas em seus respectivos universos, nós tivemos a ideia de fazer o Finn entregando a sua espada para a 2b.
